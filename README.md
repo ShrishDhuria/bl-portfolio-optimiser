@@ -1,6 +1,5 @@
 # Black-Litterman Portfolio Optimiser
 
-<!-- Replace ShrishDhuria/bl-portfolio-optimiser with your GitHub path; the badge renders once this repo is pushed and the workflow has run. -->
 [![tests](https://github.com/ShrishDhuria/bl-portfolio-optimiser/actions/workflows/tests.yml/badge.svg)](https://github.com/ShrishDhuria/bl-portfolio-optimiser/actions/workflows/tests.yml)
 
 A practitioner-grade implementation of the Black-Litterman model for European equity portfolio construction, applied to the SX5E top 15.
